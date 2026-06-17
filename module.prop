@@ -1,0 +1,7 @@
+id=snowi_mm
+name=Snowi Magisk Module
+version=1.0.0
+versionCode=1
+author=bangkkuser
+description=SnowOS Installer module
+updateJson=https://raw.githubusercontent.com/SnowOS-Linux/Snowi-Magisk-Module/refs/heads/main/ota/update.json
